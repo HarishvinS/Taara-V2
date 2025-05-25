@@ -4,3 +4,4 @@ This is a documentation of my replication of Project Taara, now an independent c
 
 This is an ongoing project and my current version is very inefficient and slow. However, I'm moving at breakneck speed and making constant updates to improve it. 
 
+Updates are on [my twitter.](https://x.com/harishvin_s)
