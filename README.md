@@ -8,6 +8,18 @@ The transmitter is a laser module controlled using PWM (Pulse-Width Modulation).
 
 Data is encoded using Manchester encoding to ensure efficient packetization.
 
+The current transmission protocol has an automatic threshhold calibration for use in various environments. 
+
+Start frames and end frames are also implemented to create an auto-sync method. 
+
 This is an ongoing project and I'm moving at breakneck speed to improve the system. I post about updates every week.
+
+###Current Goals:
+
+Implement Reed-Solomon error correction
+3D-Print housing
+Build an ML anomaly detection system (for added layer of security).
+Build a 3-point servo system for auto-alignment (for long distances).
+
 
 Updates are on [my twitter.](https://x.com/harishvin_s)
