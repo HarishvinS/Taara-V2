@@ -16,13 +16,13 @@ This is an ongoing project and I'm moving at breakneck speed to improve the syst
 
 ### Current Goals
 
-Implement Reed-Solomon error correction
+- Implement Reed-Solomon error correction
 
-3D-Print housing
+- 3D-Print housing
 
-Build an ML anomaly detection system (for added layer of security).
+- Build an ML anomaly detection system (for added layer of security).
 
-Build a 3-point servo system for auto-alignment (for long distances).
+- Build a 3-point servo system for auto-alignment (for long distances).
 
 
 Updates are on [my twitter.](https://x.com/harishvin_s)
