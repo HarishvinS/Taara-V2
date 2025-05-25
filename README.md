@@ -8,6 +8,6 @@ The transmitter is a laser module controlled using PWM (Pulse-Width Modulation).
 
 Data is encoded using Manchester encoding to ensure efficient packetization.
 
-This is an ongoing project and I'm moving at breakneck speed to improve teh system. I post about updates every week.
+This is an ongoing project and I'm moving at breakneck speed to improve the system. I post about updates every week.
 
 Updates are on [my twitter.](https://x.com/harishvin_s)
