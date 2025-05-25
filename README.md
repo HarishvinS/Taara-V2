@@ -14,7 +14,7 @@ Start frames and end frames are also implemented to create an auto-sync method.
 
 This is an ongoing project and I'm moving at breakneck speed to improve the system. I post about updates every week.
 
-### Current Goals:
+### Current Goals
 
 Implement Reed-Solomon error correction
 3D-Print housing
